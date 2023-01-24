@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an full-stack developer and I work with React, React Native and Node. I really enjoy JavaScript and all the stuff you can do with it.
+I'm a full-stack developer and I work with React, React Native and Node. I really enjoy JavaScript and all the stuff you can do with it.
 
 ### 🧰 Languages and Tools
 <p>
